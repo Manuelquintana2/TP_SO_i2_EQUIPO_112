@@ -6,4 +6,6 @@ a-10 git remote add upstream https://github.com/Manuelquintana2/TP...
   13 git log
   14 git push -f origin main
 b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
-b-Si, lo puede hacer pero no desde GitHub, lo tiene que hacer manualmente y genera muchos errores
+b-Si, lo puede hacer pero no desde GitHub, lo tiene que hacer manualmente y genera muchos errores.
+c-Lo mismo que la B.
+d-No, los datos no se pierden, solo se agregan los datos actualizados.
