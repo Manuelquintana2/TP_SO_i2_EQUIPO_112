@@ -1,1 +1,9 @@
 Manuel Quintana Miño, Federico Corbalan, Matias Diaz
+a-¿Como actualizo mi repositorio, al estado que esté el repo que hice FORK?
+a-10 git remote add upstream https://github.com/Manuelquintana2/TP...
+  11 git fetch upstream
+  12 git rebase upstream/main
+  13 git log
+  14 git push -f origin main
+b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
+b-Si, lo puede hacer pero no desde GitHub, lo tiene que hacer manualmente y genera muchos errores
